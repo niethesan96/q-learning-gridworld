@@ -1,0 +1,55 @@
+{
+  "seed": 42,
+  "episodes": 3000,
+  "reached_goal": true,
+  "greedy_steps": 10,
+  "greedy_reward": 91.0,
+  "shortest_possible_steps": 10,
+  "path": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      5
+    ]
+  ],
+  "last_100_training_success_rate": 1.0
+}
